@@ -35,4 +35,6 @@ while ($i < count($hewan)) {
      echo $hewan[$i] . "<br>";
      $i++;
 }
+
+echo "<hr>";
 ?>
